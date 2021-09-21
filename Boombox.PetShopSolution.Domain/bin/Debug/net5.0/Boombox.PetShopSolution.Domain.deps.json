@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Boombox.PetShopSolution.Domain/1.0.0": {
+        "dependencies": {
+          "Boombox.PetShopSolution.Core": "1.0.0"
+        },
+        "runtime": {
+          "Boombox.PetShopSolution.Domain.dll": {}
+        }
+      },
+      "Boombox.PetShopSolution.Core/1.0.0": {
+        "runtime": {
+          "Boombox.PetShopSolution.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Boombox.PetShopSolution.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Boombox.PetShopSolution.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

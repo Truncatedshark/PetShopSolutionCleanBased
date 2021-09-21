@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\XMdag\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\XMdag\\.nuget\\packages"
+    ]
+  }
+}
