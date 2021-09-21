@@ -20,6 +20,8 @@ namespace Boombox.PetShopSolution.EFSQL
         public DbSet<PetOwner> PetOwnerTable { get; set; }
         
         public DbSet<PetType> PetTypeTable { get; set; }
+        
+        
 
         public void MyAss()
         {

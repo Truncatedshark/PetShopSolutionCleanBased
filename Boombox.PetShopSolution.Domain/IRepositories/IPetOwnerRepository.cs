@@ -6,5 +6,7 @@ namespace Boombox.PetShopSolution.Domain.IRepositories
     public interface IPetOwnerRepository
     {
         public List<PetOwner> GetOwners();
+
+        public PetOwner CreateOwner(PetOwner owner);
     }
 }

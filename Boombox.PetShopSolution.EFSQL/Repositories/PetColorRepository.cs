@@ -19,6 +19,11 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
         {
             return _ctx.PetColorTable.ToList();
         }
+        public PetColor CreateColor(PetColor color)
+        {
+            return _ctx.PetColorTable.Add(color).Entity;
+        }
+        
     }
     
 }

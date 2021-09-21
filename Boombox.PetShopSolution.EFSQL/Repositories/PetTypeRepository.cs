@@ -18,5 +18,10 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
         {
             return _ctx.PetTypeTable.ToList();
         }
+
+        public PetType CreateType(PetType type)
+        {
+            return _ctx.PetTypeTable.Add(type).Entity;
+        }
     }
 }

@@ -6,5 +6,7 @@ namespace Boombox.PetShopSolution.Domain.IRepositories
     public interface IPetTypeRepository
     {
         public List<PetType> GetTypes();
+
+        public PetType CreateType(PetType type);
     }
 }

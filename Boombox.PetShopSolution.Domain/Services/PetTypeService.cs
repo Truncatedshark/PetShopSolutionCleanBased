@@ -17,5 +17,10 @@ namespace Boombox.PetShopSolution.Domain.Services
         {
             return _repo.GetTypes();
         }
+
+        public PetType CreateType(PetType type)
+        {
+            return _repo.CreateType(type);
+        }
     }
 }
