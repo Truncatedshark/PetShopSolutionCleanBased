@@ -1,4 +1,5 @@
-﻿using Boombox.PetShopSolution.Core.Models;
+﻿using System;
+using Boombox.PetShopSolution.Core.Models;
 using Boombox.PetShopSolution.EFSQL.Entities;
 using Microsoft.EntityFrameworkCore;
 
@@ -19,6 +20,11 @@ namespace Boombox.PetShopSolution.EFSQL
         public DbSet<PetOwner> PetOwnerTable { get; set; }
         
         public DbSet<PetType> PetTypeTable { get; set; }
+
+        public void MyAss()
+        {
+            Console.WriteLine("I love eating ass");
+        }
 
 
     }
