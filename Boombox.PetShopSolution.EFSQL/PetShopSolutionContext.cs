@@ -20,13 +20,18 @@ namespace Boombox.PetShopSolution.EFSQL
         public DbSet<PetOwner> PetOwnerTable { get; set; }
         
         public DbSet<PetType> PetTypeTable { get; set; }
+
+
+        protected override void OnModelCreating(ModelBuilder modelbuilder)
         
+        {
+
+            
+        }
         
 
-        public void MyAss()
-        {
-            Console.WriteLine("I love eating ass");
-        }
+
+ 
 
 
     }

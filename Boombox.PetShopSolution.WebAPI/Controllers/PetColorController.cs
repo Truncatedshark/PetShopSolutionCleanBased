@@ -29,7 +29,7 @@ namespace Boombox.PetShopSolution.WebAPI.Controllers
         public void Post([FromBody] PostPetColorDto postPetColorDto)
         {
             var petColor = _tr.PostPetColorTransformer(postPetColorDto);
-            _petColorService.CreateColor(PetColor color);  // Why code no work? am very tired could probably figure this out if i wasnt so fuckn tired
+           // _petColorService.CreateColor(PetColor color);  // Why code no work? am very tired could probably figure this out if i wasnt so fuckn tired
         }
     }
     
