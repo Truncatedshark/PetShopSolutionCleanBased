@@ -30,6 +30,11 @@ namespace Boombox.PetShopSolution.EFSQL
                 .WithMany()
                 .HasForeignKey(p => new {TypeOdId = p.PetType});
             
+            modelBuilder.Entity<PetEntity>()
+                .HasOne(p => p.PetOwner)
+                .WithMany()
+                .HasForeignKey(p => new {OwnerOdId = p.PetOwner});
+
             
 
             modelBuilder.Entity<PetTypeEntity>()
