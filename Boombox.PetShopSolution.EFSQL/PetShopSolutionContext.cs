@@ -13,27 +13,27 @@ namespace Boombox.PetShopSolution.EFSQL
             
         }
         
-        public DbSet<Pet> PetTable { get; set; }
+        public DbSet<PetEntity> PetTable { get; set; }
         
-        public DbSet<PetColor> PetColorTable { get; set; }
+        public DbSet<PetColorEntity> PetColorTable { get; set; }
 
-        public DbSet<PetOwner> PetOwnerTable { get; set; }
+        public DbSet<PetOwnerEntity> PetOwnerTable { get; set; }
         
-        public DbSet<PetType> PetTypeTable { get; set; }
+        public DbSet<PetTypeEntity> PetTypeTable { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
 
         {
-            modelBuilder.Entity<PetEntity>()
-                .HasOne(p => p.PetType)
-                .WithMany()
-                .HasForeignKey(p => new {TypeOdId = p.PetType});
+            // modelBuilder.Entity<PetEntity>()
+            //     .HasOne(p => p.PetType)
+            //     .WithMany()
+            //     .HasForeignKey(p => new {TypeOdId = p.PetType});
             
-            modelBuilder.Entity<PetEntity>()
-                .HasOne(p => p.PetOwner)
-                .WithMany()
-                .HasForeignKey(p => new {OwnerOdId = p.PetOwner});
+            // modelBuilder.Entity<PetEntity>()
+            //     .HasOne(p => p.PetOwner)
+            //     .WithMany()
+            //     .HasForeignKey(p => new {OwnerOdId = p.PetOwner});
 
             
 

@@ -15,10 +15,23 @@ namespace Boombox.PetShopSolution.WebAPI.Dtos
                     Id = ppd.PetTypeId
                 },
                 BirthDate = ppd.BirthDate,
-                Color = ppd.Color,
+                Color = new Core.Models.PetColor(){Name = ppd.Color},
                 Price = ppd.Price
             };
             return pet;
+        }
+
+        public GetPetById ToGetPetTransformer(Core.Models.Pet pet)
+        {
+            GetPetById getPet = new GetPetById()
+            {
+                PetName = pet.PetName,
+                Price = pet.Price,
+                Color = pet.Color.Name,
+                Owner = pet.PetOwner.Name,
+                PetType = pet.PetTypeB.Name
+            };
+            return getPet;
         }
     }
 }

@@ -19,8 +19,15 @@ namespace Boombox.PetShopSolution.WebAPI.Controllers
             _tr = new PetTransformer();
             _petService = petService;
         }
-        
-        
+
+        [HttpGet("{id}")]
+        public ActionResult<GetPetById> GetPetById(int id)
+        {
+            Core.Models.Pet resultPet = _petService.GetPetById(id);
+            return _tr.ToGetPetTransformer(resultPet);
+        }
+
+
         [HttpGet]
         public ActionResult<IEnumerable<Core.Models.Pet>> Get()
         {

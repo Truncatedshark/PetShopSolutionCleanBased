@@ -9,6 +9,7 @@ namespace Boombox.PetShopSolution.Core.IServices
         Pet CreatePet(Pet pet);
 
         List<Pet> ReadAll();
+        Pet GetPetById(int id);
         
         List<Pet> SearchByName();
         

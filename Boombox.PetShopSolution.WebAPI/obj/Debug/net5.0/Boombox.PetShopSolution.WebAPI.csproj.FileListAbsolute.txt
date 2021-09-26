@@ -1,122 +1,182 @@
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\appsettings.json
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.WebAPI.exe
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.WebAPI.deps.json
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.WebAPI.runtimeconfig.json
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.WebAPI.runtimeconfig.dev.json
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.WebAPI.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\ref\Boombox.PetShopSolution.WebAPI.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.WebAPI.pdb
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.Core.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.Domain.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.EFSQL.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.Core.pdb
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.EFSQL.pdb
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.Domain.pdb
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.csproj.AssemblyReference.cache
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.AssemblyInfoInputs.cache
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.AssemblyInfo.cs
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\staticwebassets\Boombox.PetShopSolution.WebAPI.StaticWebAssets.Manifest.cache
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\staticwebassets\Boombox.PetShopSolution.WebAPI.StaticWebAssets.xml
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\scopedcss\bundle\Boombox.PetShopSolution.WebAPI.styles.css
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.RazorTargetAssemblyInfo.cache
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.csproj.CopyComplete
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\ref\Boombox.PetShopSolution.WebAPI.dll
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.pdb
-C:\Users\XMdag\RiderProjects\PetShopSolutionClean\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.genruntimeconfig.cache
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\appsettings.Development.json
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\appsettings.json
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.WebAPI.exe
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.WebAPI.deps.json
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.WebAPI.runtimeconfig.json
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.WebAPI.runtimeconfig.dev.json
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.WebAPI.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\ref\Boombox.PetShopSolution.WebAPI.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.WebAPI.pdb
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.Core.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.Domain.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.EFSQL.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.Core.pdb
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.EFSQL.pdb
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\bin\Debug\net5.0\Boombox.PetShopSolution.Domain.pdb
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.csproj.AssemblyReference.cache
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.AssemblyInfoInputs.cache
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.AssemblyInfo.cs
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.csproj.CoreCompileInputs.cache
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\staticwebassets\Boombox.PetShopSolution.WebAPI.StaticWebAssets.Manifest.cache
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\staticwebassets\Boombox.PetShopSolution.WebAPI.StaticWebAssets.xml
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\scopedcss\bundle\Boombox.PetShopSolution.WebAPI.styles.css
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.RazorTargetAssemblyInfo.cache
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.csproj.CopyComplete
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\ref\Boombox.PetShopSolution.WebAPI.dll
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.pdb
-C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.WebAPI\obj\Debug\net5.0\Boombox.PetShopSolution.WebAPI.genruntimeconfig.cache
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/appsettings.json
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.exe
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.deps.json
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.runtimeconfig.json
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.runtimeconfig.dev.json
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/ref/Boombox.PetShopSolution.WebAPI.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.pdb
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.Core.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.Domain.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.EFSQL.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.Core.pdb
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.EFSQL.pdb
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.Domain.pdb
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.csproj.AssemblyReference.cache
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.AssemblyInfoInputs.cache
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.AssemblyInfo.cs
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.csproj.CoreCompileInputs.cache
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/staticwebassets/Boombox.PetShopSolution.WebAPI.StaticWebAssets.Manifest.cache
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/staticwebassets/Boombox.PetShopSolution.WebAPI.StaticWebAssets.xml
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/scopedcss/bundle/Boombox.PetShopSolution.WebAPI.styles.css
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.RazorTargetAssemblyInfo.cache
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.csproj.CopyComplete
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/ref/Boombox.PetShopSolution.WebAPI.dll
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.pdb
+C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.genruntimeconfig.cache
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/appsettings.Development.json
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/appsettings.json
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.exe
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.deps.json
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.runtimeconfig.json
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.runtimeconfig.dev.json
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/ref/Boombox.PetShopSolution.WebAPI.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.pdb
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.Core.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.Domain.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.EFSQL.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.Core.pdb
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.EFSQL.pdb
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.Domain.pdb
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.csproj.AssemblyReference.cache
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.AssemblyInfoInputs.cache
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.AssemblyInfo.cs
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.csproj.CoreCompileInputs.cache
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/staticwebassets/Boombox.PetShopSolution.WebAPI.StaticWebAssets.Manifest.cache
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/staticwebassets/Boombox.PetShopSolution.WebAPI.StaticWebAssets.xml
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/scopedcss/bundle/Boombox.PetShopSolution.WebAPI.styles.css
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.RazorTargetAssemblyInfo.cache
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.csproj.CopyComplete
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/ref/Boombox.PetShopSolution.WebAPI.dll
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.pdb
+C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.genruntimeconfig.cache
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/appsettings.Development.json
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/appsettings.json
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.deps.json
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.runtimeconfig.json
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.runtimeconfig.dev.json
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/ref/Boombox.PetShopSolution.WebAPI.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.WebAPI.pdb
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.Core.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.Domain.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.EFSQL.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.Core.pdb
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.EFSQL.pdb
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/bin/Debug/net5.0/Boombox.PetShopSolution.Domain.pdb
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.csproj.AssemblyReference.cache
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.AssemblyInfoInputs.cache
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.AssemblyInfo.cs
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.csproj.CoreCompileInputs.cache
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/staticwebassets/Boombox.PetShopSolution.WebAPI.StaticWebAssets.Manifest.cache
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/staticwebassets/Boombox.PetShopSolution.WebAPI.StaticWebAssets.xml
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/scopedcss/bundle/Boombox.PetShopSolution.WebAPI.styles.css
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.RazorTargetAssemblyInfo.cache
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.csproj.CopyComplete
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/ref/Boombox.PetShopSolution.WebAPI.dll
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.pdb
+/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.WebAPI/obj/Debug/net5.0/Boombox.PetShopSolution.WebAPI.genruntimeconfig.cache

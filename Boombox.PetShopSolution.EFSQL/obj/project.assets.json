@@ -562,37 +562,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\XMdag\\.nuget\\packages\\": {}
+    "/Users/danylolviv/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\RiderProjects\\PetShopSolutionCleanBased\\Boombox.PetShopSolution.EFSQL\\Boombox.PetShopSolution.EFSQL.csproj",
+      "projectUniqueName": "/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.EFSQL/Boombox.PetShopSolution.EFSQL.csproj",
       "projectName": "Boombox.PetShopSolution.EFSQL",
-      "projectPath": "C:\\RiderProjects\\PetShopSolutionCleanBased\\Boombox.PetShopSolution.EFSQL\\Boombox.PetShopSolution.EFSQL.csproj",
-      "packagesPath": "C:\\Users\\XMdag\\.nuget\\packages\\",
-      "outputPath": "C:\\RiderProjects\\PetShopSolutionCleanBased\\Boombox.PetShopSolution.EFSQL\\obj\\",
+      "projectPath": "/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.EFSQL/Boombox.PetShopSolution.EFSQL.csproj",
+      "packagesPath": "/Users/danylolviv/.nuget/packages/",
+      "outputPath": "/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.EFSQL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\XMdag\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/danylolviv/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\RiderProjects\\PetShopSolutionCleanBased\\Boombox.PetShopSolution.Core\\Boombox.PetShopSolution.Core.csproj": {
-              "projectPath": "C:\\RiderProjects\\PetShopSolutionCleanBased\\Boombox.PetShopSolution.Core\\Boombox.PetShopSolution.Core.csproj"
+            "/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.Core/Boombox.PetShopSolution.Core.csproj": {
+              "projectPath": "/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.Core/Boombox.PetShopSolution.Core.csproj"
             },
-            "C:\\RiderProjects\\PetShopSolutionCleanBased\\Boombox.PetShopSolution.Domain\\Boombox.PetShopSolution.Domain.csproj": {
-              "projectPath": "C:\\RiderProjects\\PetShopSolutionCleanBased\\Boombox.PetShopSolution.Domain\\Boombox.PetShopSolution.Domain.csproj"
+            "/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.Domain/Boombox.PetShopSolution.Domain.csproj": {
+              "projectPath": "/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.Domain/Boombox.PetShopSolution.Domain.csproj"
             }
           }
         }
@@ -627,7 +625,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

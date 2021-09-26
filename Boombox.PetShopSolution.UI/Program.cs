@@ -6,8 +6,8 @@ namespace Boombox.PetShopSolution.UI
     {
         static void Main(string[] args)
         {
-            Menu menu = new Menu();
-            menu.Start();
+            // Menu menu = new Menu();
+            // menu.Start();
         }
     }
 }

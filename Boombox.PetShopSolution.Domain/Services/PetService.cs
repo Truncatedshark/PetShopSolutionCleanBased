@@ -29,6 +29,11 @@ namespace Boombox.PetShopSolution.Domain.Services
             return _repo.GetPets();
         }
 
+        public Pet GetPetById(int id)
+        {
+          return _repo.GetPetbyId(id);
+        }
+
         public List<Pet> SearchByName()
         {
            throw new System.NotImplementedException();
