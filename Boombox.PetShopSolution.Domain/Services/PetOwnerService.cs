@@ -1,10 +1,11 @@
 ﻿using System.Collections.Generic;
+using Boombox.PetShopSolution.Core.IServices;
 using Boombox.PetShopSolution.Core.Models;
 using Boombox.PetShopSolution.Domain.IRepositories;
 
 namespace Boombox.PetShopSolution.Domain.Services
 {
-    public class PetOwnerService : IPetOwnerRepository
+    public class PetOwnerService : IPetOwnerService
     {
         private readonly IPetOwnerRepository _repo;
 
@@ -23,6 +24,11 @@ namespace Boombox.PetShopSolution.Domain.Services
         public PetOwner CreateOwner(PetOwner owner)
         {
             return _repo.CreateOwner(owner);
+        }
+
+        public List<PetOwner> ReadAll()
+        {
+            return _repo.GetOwners();
         }
     }
 }

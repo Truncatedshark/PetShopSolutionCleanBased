@@ -1,11 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using Boombox.PetShopSolution.Core.Models;
+using Boombox.PetShopSolution.Domain.IRepositories;
 using Boombox.PetShopSolution.EFSQL.Entities;
 
 namespace Boombox.PetShopSolution.EFSQL.Repositories
 {
-    public class PetTypeRepository
+    public class PetTypeRepository : IPetTypeRepository
     {
         private readonly PetShopSolutionContext _ctx;
         private readonly EntityTransformer _transformer;
@@ -25,6 +26,16 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
             }
             return listPetType;
         }
+
+        public List<PetType> GetTypes()
+        {
+            List<PetType> listTypes = new List<PetType>();
+            foreach (var PetTypeEntity in _ctx.PetTypeTable)
+            {
+                listTypes.Add(_transformer.FromPetTypeEntity(PetTypeEntity));
+            }
+
+            return listTypes;        }
 
         public PetType CreateType(PetType type)
         {

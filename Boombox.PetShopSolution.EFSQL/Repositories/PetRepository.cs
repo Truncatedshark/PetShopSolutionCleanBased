@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using Boombox.PetShopSolution.Core.Filtering;
 using Boombox.PetShopSolution.Core.Models;
 using Boombox.PetShopSolution.Domain.IRepositories;
 using Boombox.PetShopSolution.EFSQL.Entities;
@@ -18,14 +19,18 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
             _transformer = new EntityTransformer();
         }
 
-        public List<Pet> GetPets()
+        public List<Pet> GetPets(Filter filter)
         {
             List<Pet> listPettos = new List<Pet>();
-            foreach (var petEntity in _ctx.PetTable.ToList())
+            foreach (var petEntity in _ctx.PetTable
+                .Skip(filter.Count * (filter.Page - 1))
+                .Take(filter.Count)
+                .ToList())
             {
                 listPettos.Add(_transformer.FromPetEntity(petEntity));
             }
             return listPettos;
+            
         }
 
         public Pet GetPetbyId(int id)
@@ -43,6 +48,11 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
             var petFromDB = _transformer.FromPetEntity(_ctx.PetTable.Add(_transformer.ToPetEntity(pet)).Entity);
             _ctx.SaveChanges();
             return petFromDB;
+        }
+
+        public int Count()
+        {
+            return _ctx.PetTable.Count();
         }
     }
 }

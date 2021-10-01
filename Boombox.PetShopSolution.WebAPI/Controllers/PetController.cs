@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using Boombox.PetShopSolution.Core.Filtering;
 using Boombox.PetShopSolution.Core.IServices;
 using Boombox.PetShopSolution.WebAPI.Dtos;
 using Boombox.PetShopSolution.WebAPI.Pet;
@@ -29,9 +30,9 @@ namespace Boombox.PetShopSolution.WebAPI.Controllers
 
 
         [HttpGet]
-        public ActionResult<IEnumerable<Core.Models.Pet>> Get()
+        public ActionResult<IEnumerable<Core.Models.Pet>> Get(Filter filter)
         {
-            return _petService.ReadAll();
+            return _petService.ReadAll(filter);
         }
         
         // POST Pets

@@ -1,10 +1,11 @@
 ﻿using System.Collections.Generic;
+using Boombox.PetShopSolution.Core.IServices;
 using Boombox.PetShopSolution.Core.Models;
 using Boombox.PetShopSolution.Domain.IRepositories;
 
 namespace Boombox.PetShopSolution.Domain.Services
 {
-    public class PetTypeService
+    public class PetTypeService : IPetTypeService
     {
         private readonly IPetTypeRepository _repo;
 

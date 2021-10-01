@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using Boombox.PetShopSolution.Core.Filtering;
 using Boombox.PetShopSolution.Core.Models;
 
 namespace Boombox.PetShopSolution.Core.IServices
@@ -8,7 +9,7 @@ namespace Boombox.PetShopSolution.Core.IServices
         
         Pet CreatePet(Pet pet);
 
-        List<Pet> ReadAll();
+        List<Pet> ReadAll(Filter filter);
         Pet GetPetById(int id);
         
         List<Pet> SearchByName();
@@ -22,5 +23,7 @@ namespace Boombox.PetShopSolution.Core.IServices
         List<Pet> SortByPrice(int upOrDown);
 
         List<Pet> GetFiveCheapestPets();
+        
+        
     }
 }

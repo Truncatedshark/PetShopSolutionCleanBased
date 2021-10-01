@@ -15,23 +15,6 @@ C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.EFSQL/
 C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/Boombox.PetShopSolution.EFSQL.dll
 C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/ref/Boombox.PetShopSolution.EFSQL.dll
 C:/Users/XMdag/RiderProjects/PetShopSolutionClean/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/Boombox.PetShopSolution.EFSQL.pdb
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/bin/Debug/net5.0/Boombox.PetShopSolution.EFSQL.deps.json
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/bin/Debug/net5.0/Boombox.PetShopSolution.EFSQL.dll
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/bin/Debug/net5.0/ref/Boombox.PetShopSolution.EFSQL.dll
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/bin/Debug/net5.0/Boombox.PetShopSolution.EFSQL.pdb
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/bin/Debug/net5.0/Boombox.PetShopSolution.Core.dll
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/bin/Debug/net5.0/Boombox.PetShopSolution.Domain.dll
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/bin/Debug/net5.0/Boombox.PetShopSolution.Core.pdb
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/bin/Debug/net5.0/Boombox.PetShopSolution.Domain.pdb
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/Boombox.PetShopSolution.EFSQL.csproj.AssemblyReference.cache
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/Boombox.PetShopSolution.EFSQL.GeneratedMSBuildEditorConfig.editorconfig
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/Boombox.PetShopSolution.EFSQL.AssemblyInfoInputs.cache
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/Boombox.PetShopSolution.EFSQL.AssemblyInfo.cs
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/Boombox.PetShopSolution.EFSQL.csproj.CoreCompileInputs.cache
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/Boombox.PetShopSolution.EFSQL.csproj.CopyComplete
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/Boombox.PetShopSolution.EFSQL.dll
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/ref/Boombox.PetShopSolution.EFSQL.dll
-C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/Boombox.PetShopSolution.EFSQL.pdb
 /Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.EFSQL/bin/Debug/net5.0/Boombox.PetShopSolution.EFSQL.deps.json
 /Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.EFSQL/bin/Debug/net5.0/Boombox.PetShopSolution.EFSQL.dll
 /Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.EFSQL/bin/Debug/net5.0/ref/Boombox.PetShopSolution.EFSQL.dll
@@ -49,3 +32,20 @@ C:/RiderProjects/PetShopSolutionCleanBased/Boombox.PetShopSolution.EFSQL/obj/Deb
 /Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/Boombox.PetShopSolution.EFSQL.dll
 /Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/ref/Boombox.PetShopSolution.EFSQL.dll
 /Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.EFSQL/obj/Debug/net5.0/Boombox.PetShopSolution.EFSQL.pdb
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\obj\Debug\net5.0\Boombox.PetShopSolution.EFSQL.csproj.AssemblyReference.cache
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\obj\Debug\net5.0\Boombox.PetShopSolution.EFSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\obj\Debug\net5.0\Boombox.PetShopSolution.EFSQL.AssemblyInfoInputs.cache
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\obj\Debug\net5.0\Boombox.PetShopSolution.EFSQL.AssemblyInfo.cs
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\obj\Debug\net5.0\Boombox.PetShopSolution.EFSQL.csproj.CoreCompileInputs.cache
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\obj\Debug\net5.0\Boombox.PetShopSolution.EFSQL.dll
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\obj\Debug\net5.0\ref\Boombox.PetShopSolution.EFSQL.dll
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\obj\Debug\net5.0\Boombox.PetShopSolution.EFSQL.pdb
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\bin\Debug\net5.0\Boombox.PetShopSolution.EFSQL.deps.json
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\bin\Debug\net5.0\Boombox.PetShopSolution.EFSQL.dll
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\bin\Debug\net5.0\ref\Boombox.PetShopSolution.EFSQL.dll
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\bin\Debug\net5.0\Boombox.PetShopSolution.EFSQL.pdb
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\bin\Debug\net5.0\Boombox.PetShopSolution.Core.dll
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\bin\Debug\net5.0\Boombox.PetShopSolution.Domain.dll
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\bin\Debug\net5.0\Boombox.PetShopSolution.Core.pdb
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\bin\Debug\net5.0\Boombox.PetShopSolution.Domain.pdb
+C:\RiderProjects\PetShopSolutionCleanBased\Boombox.PetShopSolution.EFSQL\obj\Debug\net5.0\Boombox.PetShopSolution.EFSQL.csproj.CopyComplete

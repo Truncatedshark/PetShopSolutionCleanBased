@@ -1,5 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
+using Boombox.PetShopSolution.Core.Filtering;
 using Boombox.PetShopSolution.Core.IServices;
 using Boombox.PetShopSolution.Core.Models;
 using Boombox.PetShopSolution.Domain.IRepositories;
@@ -24,9 +26,19 @@ namespace Boombox.PetShopSolution.Domain.Services
             throw new System.NotImplementedException();
             /* return _petServicePets.Find(pet => pet.Id == id); */
         }
-        public List<Pet> ReadAll()
+        public List<Pet> ReadAll(Filter filter)
         {
-            return _repo.GetPets();
+            if (filter.Count <= 0 || filter.Count > 500)
+            {
+                throw new ArgumentException("You need to punt in a filter count");
+            }
+
+            var totalCount = _repo.Count();
+            if (filter.Page < 1 || filter.Count * (filter.Page - 1) > totalCount)
+            {
+                throw new ArgumentException($"You need to put in a filter page between 1 and max page size, max page size allowed now: {(totalCount / filter.Count) + 1}");
+            }
+            return _repo.GetPets(filter);
         }
 
         public Pet GetPetById(int id)
