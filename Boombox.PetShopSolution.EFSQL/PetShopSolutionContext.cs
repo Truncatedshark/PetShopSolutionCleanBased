@@ -26,15 +26,13 @@ namespace Boombox.PetShopSolution.EFSQL
         protected override void OnModelCreating(ModelBuilder modelBuilder)
 
         {
-           /*  modelBuilder.Entity<PetEntity>()
-                 .HasOne(p => p.PetType)
-                .WithMany()
-                 .HasForeignKey(p => new {TypeOdId = p.PetType});
-            
-             modelBuilder.Entity<PetEntity>()
-                .HasOne(p => p.PetOwner)
-                .WithMany()
-                .HasForeignKey(p => new {OwnerOdId = p.PetOwner});*/
+          modelBuilder.Entity<PetEntity>()
+            .HasOne(p => p.PetTypeB)
+            .WithMany(p => p.Pets);
+
+          modelBuilder.Entity<PetEntity>()
+            .HasOne(p => p.PetOwner)
+            .WithMany(p => p.Pets);
         }
        
     }

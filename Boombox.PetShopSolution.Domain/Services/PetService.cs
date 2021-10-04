@@ -62,34 +62,15 @@ namespace Boombox.PetShopSolution.Domain.Services
 
         }
 
-        public Pet EditPet(int id, Pet editedPet)
+        public Pet EditPet(Pet editedPet)
         {
-          /*  var originalPet = ReadSinglePet(id);
-            originalPet.PetName = editedPet.PetName;
-            
-            originalPet.PetType = editedPet.PetType;
-            
-            originalPet.BirthDate = editedPet.BirthDate;
-            
-            originalPet.SoldDate = editedPet.SoldDate;
-            
-            originalPet.Color = editedPet.Color;
-            
-            originalPet.Price = editedPet.Price;
-            
-            int index = _petServicePets.FindIndex(item => item.Id == id);
-
-            _petServicePets[index] = originalPet;
-
-            return originalPet; */
-          throw new System.NotImplementedException();
+          return _repo.EditPet(editedPet);
         }
         
 
-        public void DeletePet(int id)
+        public Pet RemovePet(int id)
         {
-          //  _petServicePets.RemoveAll(Pet => Pet.Id == id);
-          throw new System.NotImplementedException();
+          return _repo.RemovePet(id);
         }
 
         public List<Pet> SortByPrice(int upOrDown)

@@ -23,6 +23,11 @@ namespace Boombox.PetShopSolution.Domain.Services
         {
             return _repo.CreateColor(name);
         }
+
+        public PetColor RemoveColor(int id)
+        {
+            return _repo.RemoveColor(id);
+        }
     }
     
 }

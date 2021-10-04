@@ -21,14 +21,19 @@ namespace Boombox.PetShopSolution.Domain.Services
            return _repo.GetOwners();
         }
 
-        public PetOwner CreateOwner(PetOwner owner)
-        {
-            return _repo.CreateOwner(owner);
-        }
-
         public List<PetOwner> ReadAll()
         {
             return _repo.GetOwners();
+        }
+
+        public PetOwner AddPetOwner(string name)
+        {
+            return _repo.CreateOwner(name);
+        }
+
+        public PetOwner RemoveOwner(int id)
+        {
+            return _repo.RemoveOwner(id);
         }
     }
 }

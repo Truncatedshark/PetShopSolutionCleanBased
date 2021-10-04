@@ -7,6 +7,7 @@ namespace Boombox.PetShopSolution.Domain.IRepositories
     {
         public List<PetOwner> GetOwners();
 
-        public PetOwner CreateOwner(PetOwner owner);
+        public PetOwner CreateOwner(string name);
+        PetOwner RemoveOwner(int id);
     }
 }

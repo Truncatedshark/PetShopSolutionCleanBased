@@ -19,9 +19,14 @@ namespace Boombox.PetShopSolution.Domain.Services
             return _repo.GetTypes();
         }
 
-        public PetType CreateType(PetType type)
+        public PetType createPetType(string name)
         {
-            return _repo.CreateType(type);
+            return _repo.CreateType(name);
+        }
+
+        public PetType RemovePetType(int id)
+        {
+            return _repo.RemovePetType(id);
         }
     }
 }

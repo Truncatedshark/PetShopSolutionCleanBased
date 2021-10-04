@@ -16,9 +16,9 @@ namespace Boombox.PetShopSolution.Core.IServices
         
         List<Pet> SearchByType(string typeToSearchFor);
 
-        Pet EditPet(int id, Pet editedPet);
+        Pet EditPet(Pet editedPet);
 
-        void DeletePet(int id);
+        Pet RemovePet(int id);
 
         List<Pet> SortByPrice(int upOrDown);
 

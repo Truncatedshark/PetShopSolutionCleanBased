@@ -13,7 +13,7 @@ namespace Boombox.PetShopSolution.WebAPI.Dtos
                 PetTypeB = new PetType {Id = ppd.PetTypeId},
                 BirthDate = ppd.BirthDate,
                 Color = new Core.Models.PetColor(){Id = ppd.ColorId},
-                PetOwner = new PetOwner(){Id = ppd.PetOwnerId},
+                PetOwner = new Core.Models.PetOwner(){Id = ppd.PetOwnerId},
                 Price = ppd.Price
             };
             return pet;
@@ -30,6 +30,17 @@ namespace Boombox.PetShopSolution.WebAPI.Dtos
                 PetType = pet.PetTypeB.Name
             };
             return getPet;
+        }
+
+        public Core.Models.Pet PutPetDto(PutPetDto putPd)
+        {
+            return new Core.Models.Pet()
+            {
+                Id = putPd.PetId,
+                PetName = putPd.PetName,
+                Color = new Core.Models.PetColor() {Id = putPd.ColorId},
+                Price = putPd.Price
+            };
         }
     }
 }

@@ -7,6 +7,7 @@ namespace Boombox.PetShopSolution.Domain.IRepositories
     {
         public List<PetType> GetTypes();
 
-        public PetType CreateType(PetType type);
+        public PetType CreateType(string type);
+        public PetType RemovePetType(int id);
     }
 }

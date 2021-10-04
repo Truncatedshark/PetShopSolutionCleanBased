@@ -1,5 +1,7 @@
 ﻿using System.Collections.Generic;
 using Boombox.PetShopSolution.Core.IServices;
+using Boombox.PetShopSolution.Core.Models;
+using Boombox.PetShopSolution.WebAPI.Dtos.PetOwner;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Boombox.PetShopSolution.WebAPI.Controllers
@@ -19,6 +21,18 @@ namespace Boombox.PetShopSolution.WebAPI.Controllers
         public ActionResult<IEnumerable<Core.Models.PetOwner>> Get()
         {
             return _petOwnerService.ReadAll();
+        }
+        
+        [HttpPost]
+        public PetOwner PostPetOwner([FromBody] PostPetOwnerDto postPetOwner)
+        {
+            return _petOwnerService.AddPetOwner(postPetOwner.OwnerName);
+        }
+
+        [HttpDelete("{id}")]
+        public PetOwner Remove(int id)
+        {
+            return _petOwnerService.RemoveOwner(id);
         }
     }
 }

@@ -21,25 +21,39 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
 
         public List<Pet> GetPets(Filter filter)
         {
-            List<Pet> listPettos = new List<Pet>();
-            foreach (var petEntity in _ctx.PetTable
+            var listPettos = _ctx.PetTable
                 .Skip(filter.Count * (filter.Page - 1))
                 .Take(filter.Count)
-                .ToList())
-            {
-                listPettos.Add(_transformer.FromPetEntity(petEntity));
-            }
+                .Select(pet => new Pet
+                {
+                    Id = pet.Id,
+                    PetName = pet.PetName,
+                    Price = pet.Price,
+                    PetTypeB = new PetType {Name = pet.PetTypeB.Name},
+                    Color = new PetColor() {Name = pet.Color.Name},
+                    PetOwner = new PetOwner() {Name = pet.PetOwner.Name}
+                })
+                .ToList();
+            
             return listPettos;
             
         }
 
         public Pet GetPetbyId(int id)
         {
-            return _transformer.FromPetEntity(_ctx.PetTable
-                .Include(c => c.Color)
-                .Include(c=> c.PetOwner)
-                .Include(c => c.PetTypeB)
-                .FirstOrDefault(c => c.Id == id));
+            var entityWithRelation = _ctx.PetTable
+                .Select(pet =>new Pet
+                {
+                    Id = pet.Id,
+                    PetName = pet.PetName,
+                    Price = pet.Price,
+                    PetTypeB = new PetType{Name = pet.PetTypeB.Name},
+                    Color = new PetColor(){Name = pet.Color.Name},
+                    PetOwner = new PetOwner(){Name = pet.PetOwner.Name}
+                });
+            var petW =
+                entityWithRelation.FirstOrDefault(p => p.Id == id);
+            return petW;
         }
 
 
@@ -60,6 +74,35 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
             var petW =
                 entityWithRelation.FirstOrDefault(p => p.Id == petFromDB.Id);
             return petW;
+        }
+
+        public Pet EditPet(Pet pet)
+        {
+            var existingPet = _ctx.PetTable
+                .Where(p => p.Id == pet.Id)
+                .Select(pE => pE)
+                .FirstOrDefault();
+            existingPet.ColorId = pet.Color.Id;
+            existingPet.PetName = pet.PetName;
+            existingPet.Price = pet.Price;
+            var updatedPetRes = _transformer.FromPetEntityLite(_ctx.Update(existingPet).Entity);
+            _ctx.SaveChanges();
+            return updatedPetRes;
+        }
+
+        public Pet RemovePet(int id)
+        {
+            var deletedPet = _ctx.PetTable
+                .Where(p => p.Id == id)
+                .Select(pE => new Pet()
+                {
+                    Id = pE.Id,
+                    PetName = pE.PetName
+                })
+                .FirstOrDefault();
+            _ctx.PetTable.Remove(new PetEntity() {Id = id});
+            _ctx.SaveChanges();
+            return deletedPet;
         }
 
         public int Count()

@@ -37,9 +37,29 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
 
             return listTypes;        }
 
-        public PetType CreateType(PetType type)
+        public PetType CreateType(string type)
         {
-            return _transformer.FromPetTypeEntity(_ctx.PetTypeTable.Add(_transformer.ToPetTypeEntity(type)).Entity);
+            var petTypeEntity = _transformer.FromPetTypeEntity(_ctx.PetTypeTable.Add(new PetTypeEntity(){Name = type}).Entity);
+            _ctx.SaveChanges();
+            var createdPetType = _ctx.PetTypeTable
+                .Where(pT => pT.Name == petTypeEntity.Name)
+                .Select(pT => new PetType() {Name = pT.Name, Id = pT.Id})
+                .FirstOrDefault();
+            return createdPetType;
+        }
+
+        public PetType RemovePetType(int id)
+        {
+            var removedPetType = _ctx.PetTypeTable
+                .Where(pt => pt.Id == id)
+                .Select(pt => new PetType()
+                {
+                    Id = pt.Id,
+                    Name = pt.Name
+                }).FirstOrDefault();
+            _ctx.PetTypeTable.Remove(new PetTypeEntity() {Id = id});
+            _ctx.SaveChanges();
+            return removedPetType;
         }
     }
 }

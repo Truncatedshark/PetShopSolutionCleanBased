@@ -38,9 +38,31 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
             return listOwners;
         }
 
-        public PetOwner CreateOwner(PetOwner owner)
+        public PetOwner CreateOwner(string name)
         {
-            return _transform.FromPetOwnerEntity(_ctx.PetOwnerTable.Add(_transform.ToPetOwnerEntity(owner)).Entity);
+            var petOEnt = _ctx.PetOwnerTable.Add(new PetOwnerEntity(){Name = name}).Entity;
+            var createdOwner = _ctx.PetOwnerTable
+                .Where(o => o.Name.Equals(name))
+                .Select(o => new PetOwner()
+                {
+                    Name = o.Name,
+                    Id = o.Id
+                }).FirstOrDefault();
+            return createdOwner;
+        }
+
+        public PetOwner RemoveOwner(int id)
+        {
+            var petOwnerDel = _ctx.PetOwnerTable
+                .Where(o => o.Id == id)
+                .Select(o => new PetOwner()
+                {
+                    Name = o.Name,
+                    Id = o.Id
+                }).FirstOrDefault();
+            _ctx.PetOwnerTable.Remove(new PetOwnerEntity() {Id = id});
+            _ctx.SaveChanges();
+            return petOwnerDel;
         }
     }
 }

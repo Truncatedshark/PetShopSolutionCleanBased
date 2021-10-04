@@ -30,8 +30,12 @@ namespace Boombox.PetShopSolution.WebAPI.Controllers
         public PetColor Post([FromBody] PostColorDto postPetColorDto)
         {
             return _petColorService.CreateColor(postPetColorDto.Name);
+        }
 
-            // _petColorService.CreateColor(PetColor color);  // Why code no work? am very tired could probably figure this out if i wasnt so fuckn tired
+        [HttpDelete("{id}")]
+        public PetColor Remove(int id)
+        {
+            return _petColorService.RemoveColor(id);
         }
     }
     

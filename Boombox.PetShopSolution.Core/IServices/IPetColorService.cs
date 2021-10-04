@@ -8,5 +8,6 @@ namespace Boombox.PetShopSolution.Core.IServices
         List<PetColor> ReadAll();
 
         public PetColor CreateColor(string name);
+        PetColor RemoveColor(int id);
     }
 }

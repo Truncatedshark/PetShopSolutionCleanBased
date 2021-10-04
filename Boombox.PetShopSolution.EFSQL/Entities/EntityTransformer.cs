@@ -96,5 +96,17 @@ namespace Boombox.PetShopSolution.EFSQL.Entities
       };
       return petTypeEntity;
     }
+
+    public Pet FromPetEntityLite(PetEntity entity)
+    {
+      Pet pet = new Pet()
+      {
+        Id = entity.Id,
+        PetName = entity.PetName,
+        Color = new PetColor() {Id = entity.ColorId},
+        Price = entity.Price,
+      };
+      return pet;
+    }
   }
 }

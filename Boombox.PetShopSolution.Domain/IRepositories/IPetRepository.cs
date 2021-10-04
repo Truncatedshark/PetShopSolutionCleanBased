@@ -10,7 +10,8 @@ namespace Boombox.PetShopSolution.Domain.IRepositories
         Pet GetPetbyId(int id);
         
         Pet CreatePet(Pet pet);
-
+        Pet EditPet(Pet pet);
+        Pet RemovePet(int id);
         int Count();
     }
 }

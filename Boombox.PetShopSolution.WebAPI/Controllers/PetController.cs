@@ -30,7 +30,7 @@ namespace Boombox.PetShopSolution.WebAPI.Controllers
 
 
         [HttpGet]
-        public ActionResult<IEnumerable<Core.Models.Pet>> Get(Filter filter)
+        public ActionResult<IEnumerable<Core.Models.Pet>> Get([FromQuery]Filter filter)
         {
             return _petService.ReadAll(filter);
         }
@@ -41,6 +41,18 @@ namespace Boombox.PetShopSolution.WebAPI.Controllers
         {
             var pet = _tr.PostPetTransformer(postPetDto);
             return _petService.CreatePet(pet);
+        }
+
+        [HttpPut]
+        public Core.Models.Pet Put(PutPetDto putPd)
+        {
+            return _petService.EditPet(_tr.PutPetDto(putPd));
+        }
+
+        [HttpDelete("{id}")]
+        public Core.Models.Pet RemovePet(int id)
+        {
+            return _petService.RemovePet(id);
         }
     }
 }

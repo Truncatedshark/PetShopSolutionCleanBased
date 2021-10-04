@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using Boombox.PetShopSolution.Core.Models;
 using Boombox.PetShopSolution.Domain.IRepositories;
@@ -29,11 +30,32 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
         public PetColor CreateColor(string name)
         {
             var newPetColor = new PetColorEntity() {Name = name};
-            var madeColor = _transformer.FromPetColorEntity(_ctx.Add(newPetColor).Entity);
+            _ctx.Add(newPetColor);
             _ctx.SaveChanges();
-            return madeColor;
+            var createdColor = _ctx.PetColorTable
+                .Where(col => col.Name.Equals(name))
+                .Select(col => new PetColor
+                {
+                    Id = col.Id,
+                    Name = col.Name
+                })
+                .FirstOrDefault();
+            return createdColor;
         }
-        
+
+        public PetColor RemoveColor(int id)
+        {
+            var removedColor = _ctx.PetColorTable
+                .Where(col => col.Id == id)
+                .Select(col => new PetColor()
+                {
+                    Id = col.Id,
+                    Name = col.Name
+                }).FirstOrDefault();
+            _ctx.PetColorTable.Remove(new PetColorEntity() {Id = id});
+            _ctx.SaveChanges();
+            return removedColor;
+        }
     }
     
 }
