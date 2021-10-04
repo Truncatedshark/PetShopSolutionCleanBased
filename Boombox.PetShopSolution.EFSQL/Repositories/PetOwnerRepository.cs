@@ -41,6 +41,7 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
         public PetOwner CreateOwner(string name)
         {
             var petOEnt = _ctx.PetOwnerTable.Add(new PetOwnerEntity(){Name = name}).Entity;
+            _ctx.SaveChanges();
             var createdOwner = _ctx.PetOwnerTable
                 .Where(o => o.Name.Equals(name))
                 .Select(o => new PetOwner()
