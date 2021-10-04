@@ -8,7 +8,6 @@ namespace Boombox.PetShopSolution.Core.Models
         public int? Id { get; set; }
         
         public PetType PetTypeB { get; set; }
-        public string PetType { get; set; }
         public string PetName { get; set; }
         public DateTime BirthDate { get; set; }
         public DateTime SoldDate { get; set; }

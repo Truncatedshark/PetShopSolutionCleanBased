@@ -1,3 +1,4 @@
+using System;
 using Boombox.PetShopSolution.Core.Models;
 
 namespace Boombox.PetShopSolution.EFSQL.Entities
@@ -23,13 +24,15 @@ namespace Boombox.PetShopSolution.EFSQL.Entities
     {
       PetEntity petEntity = new PetEntity()
       {
-        Id = pet.Id,
         BirthDate = pet.BirthDate,
         PetName = pet.PetName,
-        ColorId = pet.Color.Id,
-        PetTypeId = pet.PetTypeB.Id,
         Price = pet.Price,
-        SoldDate = pet.SoldDate
+        SoldDate = DateTime.Now,
+        
+        ColorId = pet.Color.Id,
+        PetTypeBId = pet.PetTypeB.Id,
+        PetOwnerId = pet.PetOwner.Id
+        
       };
       return petEntity;
     }

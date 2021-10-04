@@ -10,12 +10,10 @@ namespace Boombox.PetShopSolution.WebAPI.Dtos
             Core.Models.Pet pet = new Core.Models.Pet
             {
                 PetName = ppd.PetName,
-                PetTypeB = new PetType
-                {
-                    Id = ppd.PetTypeId
-                },
+                PetTypeB = new PetType {Id = ppd.PetTypeId},
                 BirthDate = ppd.BirthDate,
-                Color = new Core.Models.PetColor(){Name = ppd.Color},
+                Color = new Core.Models.PetColor(){Id = ppd.ColorId},
+                PetOwner = new PetOwner(){Id = ppd.PetOwnerId},
                 Price = ppd.Price
             };
             return pet;

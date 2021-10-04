@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using Boombox.PetShopSolution.Core.IServices;
 using Boombox.PetShopSolution.Core.Models;
 using Boombox.PetShopSolution.WebAPI.Dtos;
@@ -26,10 +27,11 @@ namespace Boombox.PetShopSolution.WebAPI.Controllers
         }
 
         [HttpPost]
-        public void Post([FromBody] PostPetColorDto postPetColorDto)
+        public PetColor Post([FromBody] PostColorDto postPetColorDto)
         {
-            var petColor = _tr.PostPetColorTransformer(postPetColorDto);
-           // _petColorService.CreateColor(PetColor color);  // Why code no work? am very tired could probably figure this out if i wasnt so fuckn tired
+            return _petColorService.CreateColor(postPetColorDto.Name);
+
+            // _petColorService.CreateColor(PetColor color);  // Why code no work? am very tired could probably figure this out if i wasnt so fuckn tired
         }
     }
     

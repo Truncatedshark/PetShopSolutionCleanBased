@@ -9,12 +9,15 @@ namespace Boombox.PetShopSolution.WebAPI.Dtos
         {
             Core.Models.PetColor color = new Core.Models.PetColor
             {
-                Name = ppd.Name,
-                
-                    Id = ppd.Id
-                
+                Id = 0,
+                Name = ppd.Name
             };
             return color;
+        }
+
+        public Core.Models.PetColor PostColor(PostColorDto colorDto)
+        {
+            return new Core.Models.PetColor() {Name = colorDto.Name};
         }
     }
 }

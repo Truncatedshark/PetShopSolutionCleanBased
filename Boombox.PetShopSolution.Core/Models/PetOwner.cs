@@ -8,7 +8,7 @@ namespace Boombox.PetShopSolution.Core.Models
         
         public string Name { get; set; }
 
-        public List<Pet> listPets = new List<Pet>();
+        public List<Pet> PetsOfOwner { get; set; }
 
     }
 }

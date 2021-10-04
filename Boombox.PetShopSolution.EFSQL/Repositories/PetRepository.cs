@@ -45,9 +45,21 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
 
         public Pet CreatePet(Pet pet)
         {
-            var petFromDB = _transformer.FromPetEntity(_ctx.PetTable.Add(_transformer.ToPetEntity(pet)).Entity);
+            var petFromDB = _ctx.PetTable.Add(_transformer.ToPetEntity(pet)).Entity;
             _ctx.SaveChanges();
-            return petFromDB;
+            var entityWithRelation = _ctx.PetTable
+                .Select(pet =>new Pet
+                {
+                    Id = pet.Id,
+                    PetName = pet.PetName,
+                    Price = pet.Price,
+                    PetTypeB = new PetType{Name = pet.PetTypeB.Name},
+                    Color = new PetColor(){Name = pet.Color.Name},
+                    PetOwner = new PetOwner(){Name = pet.PetOwner.Name}
+                });
+            var petW =
+                entityWithRelation.FirstOrDefault(p => p.Id == petFromDB.Id);
+            return petW;
         }
 
         public int Count()

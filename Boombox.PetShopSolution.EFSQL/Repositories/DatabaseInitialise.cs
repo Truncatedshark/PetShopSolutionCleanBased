@@ -32,10 +32,29 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
                 Id = 1, 
                 Name = "Black"
             };
-            
-            PetTypeEntity petType = new PetTypeEntity()
+            PetColorEntity petColor1 = new PetColorEntity()
+            {
+                Id = 2, 
+                Name = "Orange"
+            };
+            PetColorEntity petColor2 = new PetColorEntity()
+            {
+                Id = 3, 
+                Name = "Kamo"
+            };
+            PetTypeEntity petTypeDog = new PetTypeEntity()
             {
                 Id = 1, 
+                Name = "Dog"
+            };
+            PetTypeEntity petTypeHippo = new PetTypeEntity()
+            {
+                Id = 2, 
+                Name = "Dog"
+            };
+            PetTypeEntity petTypeDyno = new PetTypeEntity()
+            {
+                Id = 3, 
                 Name = "Dog"
             };
 
@@ -43,7 +62,11 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
             ctx.Add(petOwner1);
             ctx.Add(petOwner2);
             ctx.Add(petColor);
-            ctx.Add(petType);
+            ctx.Add(petColor1);
+            ctx.Add(petColor2);
+            ctx.Add(petTypeDog);
+            ctx.Add(petTypeHippo);
+            ctx.Add(petTypeDyno);
 
             ctx.SaveChanges();
 

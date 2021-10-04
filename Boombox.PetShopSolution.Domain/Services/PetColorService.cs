@@ -19,9 +19,9 @@ namespace Boombox.PetShopSolution.Domain.Services
             return _repo.GetColors();
         }
 
-        public PetColor CreateColor(PetColor color)
+        public PetColor CreateColor(string name)
         {
-            return _repo.CreateColor(color);
+            return _repo.CreateColor(name);
         }
     }
     

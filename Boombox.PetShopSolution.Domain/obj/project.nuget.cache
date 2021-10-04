@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CDFPX0bEBYQayBqm3yJLbFFFf/VgriPMaUhVmHfr41ZuTo8tjCFdYlfFxz4I+dGATCC8NW5u23+Vlrr2T/TWJw==",
+  "dgSpecHash": "O2G9Ph1N/wIcVFG0UA6Fy5V+US/Ib/CE+JaZh7RjlClgCnGae3ugvWk6+pDiWnTBLdZbcPU9VhqeDMiuZw71qQ==",
   "success": true,
-  "projectFilePath": "C:\\RiderProjects\\PetShopSolutionCleanBased\\Boombox.PetShopSolution.Domain\\Boombox.PetShopSolution.Domain.csproj",
+  "projectFilePath": "/Users/danylolviv/Documents/Rider Projects/PetShopSolutionCleanBasedOnGit/Boombox.PetShopSolution.Domain/Boombox.PetShopSolution.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

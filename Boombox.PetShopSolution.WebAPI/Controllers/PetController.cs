@@ -37,10 +37,10 @@ namespace Boombox.PetShopSolution.WebAPI.Controllers
         
         // POST Pets
         [HttpPost]
-        public void Post([FromBody] PostPetDto postPetDto)
+        public Core.Models.Pet Post([FromBody] PostPetDto postPetDto)
         {
             var pet = _tr.PostPetTransformer(postPetDto);
-             _petService.CreatePet(pet);
+            return _petService.CreatePet(pet);
         }
     }
 }

@@ -16,7 +16,7 @@ namespace Boombox.PetShopSolution.EFSQL.Entities
         public int ColorId { get; set; }
         public PetColorEntity Color { get; set; }
         
-        public int PetTypeId { get; set; }
+        public int PetTypeBId { get; set; }
         
         public PetTypeEntity PetTypeB { get; set; }
         
