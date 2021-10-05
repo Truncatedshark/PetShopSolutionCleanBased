@@ -3,6 +3,7 @@ using System.Linq;
 using Boombox.PetShopSolution.Core.Models;
 using Boombox.PetShopSolution.Domain.IRepositories;
 using Boombox.PetShopSolution.EFSQL.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace Boombox.PetShopSolution.EFSQL.Repositories
 {
@@ -46,6 +47,25 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
                 .Select(pT => new PetType() {Name = pT.Name, Id = pT.Id})
                 .FirstOrDefault();
             return createdPetType;
+        }
+        // todo Output this list pets for when the getById is called on petType in the PetTypeController
+        public List<Pet> getPetsForId(int id)
+        {
+            List<Pet> listPet = new List<Pet>();
+            var list = _ctx.PetTable
+                .Include(pC => pC.Color)
+                .Select(p => new PetEntity()
+                {
+                    Id = p.Id,
+                    PetName = p.PetName,
+                    Price = p.Price
+                }).Where(p => p.PetTypeBId == id)
+                .ToList();
+            foreach (var petEntity in listPet)
+            {
+                listPet.Add(_transformer.FromPetEntitySimple(petEntity));
+            }
+            return listPet;
         }
 
         public PetType RemovePetType(int id)

@@ -67,6 +67,21 @@ namespace Boombox.PetShopSolution.EFSQL.Repositories
             ctx.Add(petTypeDog);
             ctx.Add(petTypeHippo);
             ctx.Add(petTypeDyno);
+            
+            for (int i = 1; i < 6969; i++)
+            {
+                PetEntity pet = new PetEntity()
+                {
+                    Id = i,
+                    PetName = "sheesh",
+                    BirthDate = DateTime.Now,
+                    Price = 69,
+                    PetOwnerId = 2,
+                    PetTypeBId = 1,
+                    ColorId = 1
+                };
+                ctx.Add(pet);
+            }
 
             ctx.SaveChanges();
 
